@@ -26,3 +26,5 @@ function fizzbuzz(n){
     }
     return output
   }
+
+fizzbuzz(50)

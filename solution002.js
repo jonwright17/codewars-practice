@@ -24,3 +24,11 @@ function createPhoneNumber(numbers){
 
 let example = [8,1,0,8,1,4,3,6,9,7]
 createPhoneNumber(example)
+
+
+
+function sum(a, b) {
+    return a + b;
+}
+
+console.log(sum(2, 5));
