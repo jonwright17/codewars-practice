@@ -21,3 +21,6 @@ function createPhoneNumber(numbers){
     }
     return format
 }
+
+let example = [8,1,0,8,1,4,3,6,9,7]
+createPhoneNumber(example)
