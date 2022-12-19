@@ -30,7 +30,7 @@
 // 2 join with '\n'
 
 function toCsvText(array) {
-   return array.join('\n')
+    return array.join('\n')
 }
 
 let example = [[ 0, 1, 2, 3, 4 ],
