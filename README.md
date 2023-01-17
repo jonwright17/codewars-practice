@@ -1,1 +1,1 @@
-# In this repository can be found all of my codewars answers
+# In this repository are all of my codewars answers
