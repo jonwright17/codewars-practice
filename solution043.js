@@ -21,3 +21,5 @@ function removeSmallest(numbers) {
         return i != indexOfMin
     });
 }
+
+const removeSmallest2 = numbers => numbers.filter((n,i) => i !== numbers.indexOf(Math.min(...numbers)));
